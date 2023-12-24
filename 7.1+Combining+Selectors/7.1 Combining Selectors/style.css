@@ -1,0 +1,27 @@
+/* Write your code here: */
+
+
+/* Task 1 */
+h1,h2{
+    color: purple;
+}
+
+/* Task 2 */
+div > p{
+    color: firebrick
+}
+
+/* Task 3 */
+.box li{
+    color: blue;
+}
+
+/* Task 4 */
+li.done{
+color: seagreen;
+}
+
+/* Task 5 */
+ul p.done{
+    font-size: 0.5rem;
+}
